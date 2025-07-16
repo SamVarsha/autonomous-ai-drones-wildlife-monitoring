@@ -25,6 +25,3 @@ cd scripts/
 python drone_navigation.py
 ```
 
-## 5. Notes
-- Simulation was conducted on a college workstation with a dedicated RTX GPU.
-- This repository contains mock outputs for demonstration only.
