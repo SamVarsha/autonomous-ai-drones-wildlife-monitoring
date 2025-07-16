@@ -21,10 +21,4 @@ media/             → Screenshots or videos from simulation
 settings.json      → AirSim drone configuration  
 SETUP.md           → Software & environment setup  
 
-## 📽️ Demo
-*(Upload to YouTube or add GIF in `/media/demo.gif`)*  
-![Demo](media/demo.gif)
 
-## 🤖 Author
-**Bunny**  
-Simulated entirely in software using college infrastructure (high-end GPU).
